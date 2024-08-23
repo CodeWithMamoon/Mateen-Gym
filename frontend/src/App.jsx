@@ -19,6 +19,7 @@ const App = () => {
       <Hero />
       <WorkoutSessions />
       <Gallery />
+      <Gallery />
       <Pricing />
       <Contact />
       <BMICalculator />
